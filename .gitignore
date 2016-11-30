@@ -1,5 +1,8 @@
-# Object file
-*.o
+# 编译输出目录
+dist
 
-# Ada Library Information
-*.ali
+# npm模块安装目录
+node_modules
+
+# npm报错日志
+npm-debug.log
